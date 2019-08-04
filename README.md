@@ -7,6 +7,7 @@
 - Awesome Vim
     - [插件管理](#plug-manager)
     - [效率利器](#efficiency)
+    - [Golang](#golang)
 
 
 
@@ -21,3 +22,7 @@
 *提升效率利器*
 
 * [NerdTree](https://github.com/scrooloose/nerdtree.git) - 书签,目录,导航管理
+
+## Golang
+
+* [vim-godef](https://github.com/relunctance/vim-godef.git) - 查看函数源码定义位置及内容
