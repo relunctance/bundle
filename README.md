@@ -26,3 +26,4 @@
 ## Golang
 
 * [vim-godef](https://github.com/relunctance/vim-godef.git) - 查看函数源码定义位置及内容
+* [gocode](https://github.com/mdempsky/gocode) - Vim-Golang环境一键安装
