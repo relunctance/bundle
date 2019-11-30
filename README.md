@@ -8,6 +8,7 @@
     - [插件管理](#plug-manager)
     - [效率利器](#efficiency)
     - [Golang](#golang)
+    - [vim-markdown笔记平台](#vim-markdown)
 
 
 
@@ -27,3 +28,7 @@
 
 * [vim-godef](https://github.com/relunctance/vim-godef.git) - 查看函数源码定义位置及内容
 * [gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
+
+##  vim-markdown
+* [Vnode] (https://github.com/tamlok/vnote) - 开源Vim笔记记录工具
+* [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 在线笔记Vim笔记平台
