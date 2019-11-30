@@ -30,5 +30,5 @@
 * [gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
 
 ##  vim-markdown
-* [Vnode](https://github.com/tamlok/vnote) - 开源Vim笔记记录工具
+* [Vnode](https://github.com/tamlok/vnote) - 开源Vim笔记记录工具,VNote 是一个更懂程序员和 Markdown 的笔记软件！
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 在线笔记Vim笔记平台
