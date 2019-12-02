@@ -8,7 +8,7 @@
     - [插件管理](#plug-manager)
     - [效率利器](#efficiency)
     - [Golang](#golang)
-    - [vim-markdown笔记平台](#vim-markdown)
+    - [vim-markdown编写](#vim-markdown)
 
 
 
