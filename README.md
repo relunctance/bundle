@@ -31,4 +31,5 @@
 
 ##  vim-markdown
 * [Vnode](https://github.com/tamlok/vnote) - 开源Vim笔记记录工具,VNote 是一个更懂程序员和 Markdown 的笔记软件！
-* [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 在线笔记Vim笔记平台
+* [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 在线笔记Vim笔记平台( 收费 ) 
+* [NoTable](https://github.com/notable/notable) -高star开源,高颜值的、功能强大,支持Vim, Zen模式, 多笔记编辑模块
