@@ -26,8 +26,9 @@
 
 ## Golang
 
-* [vim-godef](https://github.com/relunctance/vim-godef.git) - 查看函数源码定义位置及内容
+* [vim-godef](https://github.com/relunctance/vim-godef.git) - gd左侧/gs新窗口查看函数源码定义位置及内容
 * [gocode](https://github.com/mdempsky/gocode) - An autocompletion daemon for the Go programming language
+* [vim-gotestfunc](https://github.com/relunctance/vim-gotestfunc)  gt一键执行当前函数单元测试
 
 ##  vim-markdown
 * [Vnode](https://github.com/tamlok/vnote) - 开源Vim笔记记录工具,VNote 是一个更懂程序员和 Markdown 的笔记软件！
