@@ -7,6 +7,7 @@
 - Awesome Vim
     - [插件管理](#plug-manager)
     - [效率利器](#efficiency)
+    - [注释插件](#comment)
     - [Golang](#golang)
     - [vim-markdown编写](#vim-markdown)
 
@@ -34,3 +35,8 @@
 * [Vnode](https://github.com/tamlok/vnote) - 开源Vim笔记记录工具,VNote 是一个更懂程序员和 Markdown 的笔记软件！
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 在线笔记Vim笔记平台( 收费 ) 
 * [NoTable](https://github.com/notable/notable) -高star开源,高颜值的、功能强大,支持Vim, Zen模式, 多笔记编辑模块
+
+## comment
+* [vim-commentary](https://github.com/tpope/vim-commentary) - 支持python/react/go/c/c++/PHP语言注释, 仅支持//风格
+* [NerdCommenter](https://github.com/preservim/nerdcommenter) - 大名鼎鼎nerdtree社区下的注释插件
+* [Doxygen](https://github.com/vim-scripts/DoxygenToolkit.vim) - 支持License,作者信息,函数开头注释功能,比较适合自定义注释内容
