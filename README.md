@@ -39,4 +39,4 @@
 ## comment
 * [vim-commentary](https://github.com/tpope/vim-commentary) - 支持python/react/go/c/c++/PHP语言注释, 仅支持//风格
 * [NerdCommenter](https://github.com/preservim/nerdcommenter) - 大名鼎鼎nerdtree社区下的注释插件
-* [Doxygen](https://github.com/vim-scripts/DoxygenToolkit.vim) - 支持License,作者信息,函数开头注释功能,比较适合自定义注释内容
+* [Doxygen](https://github.com/vim-scripts/DoxygenToolkit.vim) - 支持License,作者信息,函数开头注释功能,比较适合自定义注释内容,对Golang支持不好
